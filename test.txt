@@ -1,8 +1,0 @@
-feature 1 
-
-test ashish
-test vikram
-
-feature 2
- test rupesh
- 
